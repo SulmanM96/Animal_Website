@@ -1,5 +1,5 @@
 # Animal_Website
-created a basic website .
+Created a basic website that has a database which can store animals and remove and edit their details using the database first method .
 
 Prerequisites
 Visual Studio Basic
